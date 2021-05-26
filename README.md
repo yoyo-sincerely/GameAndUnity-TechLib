@@ -58,6 +58,7 @@
 - 200+☆ https://github.com/CatLib/CatLib
 
 ### 战斗、技能系统
+- https://github.com/coneo/blog/issues/25(比较好的思路)
 - https://github.com/sjai013/UnityGameplayAbilitySystem
 - https://github.com/tranek/GASDocumentation （虚幻引擎的GamePlay Ability System 文档）
 - 130+☆ https://github.com/dongweiPeng/SkillSystem
