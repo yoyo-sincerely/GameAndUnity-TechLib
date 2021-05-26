@@ -189,3 +189,28 @@
 
 ### 原生平台交互
 - 400+☆ https://github.com/yasirkula/UnityNativeShare
+
+### 常去网站
+[startup news](http://news.dbanotes.net/)
+
+[hacker news](https://news.ycombinator.com/news)
+
+[ourcoders](http://ourcoders.com/home/)
+
+[36kr](http://36kr.com/)
+
+[gameres](http://bbs.gameres.com/)
+
+[kickstarter](https://www.kickstarter.com/)
+
+[infoQ](http://www.infoq.com/cn)
+
+[爱范儿](http://www.ifanr.com/)
+
+[独立星球](http://inpla.net/)
+
+[极客头条](http://geek.csdn.net/)
+
+[知乎周刊](http://zhuanlan.zhihu.com/Weekly)
+
+[Real World Technologies](http://www.realworldtech.com/)
