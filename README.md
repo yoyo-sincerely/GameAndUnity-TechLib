@@ -190,6 +190,9 @@
 ### 原生平台交互
 - 400+☆ https://github.com/yasirkula/UnityNativeShare
 
+### 图片处理工具
+- https://github.com/EZhex1991/EZTextureProcessor  (参数化图片处理工具)
+
 ### 常去网站
 [startup news](http://news.dbanotes.net/)
 
