@@ -194,3 +194,6 @@
 ### 图片处理工具
 - https://github.com/EZhex1991/EZTextureProcessor  (参数化图片处理工具)
 
+### 美术工具
+- https://github.com/YoyoRD/PSD2UGUI (ps直接生成UGUI)
+
