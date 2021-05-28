@@ -71,6 +71,9 @@
 - 10+☆ https://github.com/gucheng0712/CombatDesigner （A Frame Based Visual Combat System in Unity Game Engine.）
 - https://github.com/PxGame/XMLib.AM
 
+### 技能编辑器
+- 180☆ https://github.com/PxGame/XMLib.AM 
+
 ### 帧同步框架
 - 300+☆ https://github.com/JiepengTan/LockstepEngine
 - 300+☆ https://github.com/proepkes/UnityLockstep
