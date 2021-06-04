@@ -134,7 +134,10 @@
 ### 玻璃特效
 - https://github.com/andydbc/unity-frosted-glass
 
----
+### 将动画曲线做入texture2D
+- https://github.com/andydbc/unity-texture-curve
+
+
 # 其他
 ### 网络库
 - 1k+☆ https://github.com/RevenantX/LiteNetLib
